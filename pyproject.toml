@@ -7,7 +7,6 @@ authors = ["Tom Johnson <tom.johnson@softwire.com>"]
 [tool.poetry.dependencies]
 python = "^3.10"
 Flask = "^2.1.2"
-psycopg2 = "^2.9.3"
 Flask-SQLAlchemy = "^2.5.1"
 Flask-Script = "^2.0.6"
 Flask-Migrate = "^3.1.0"
